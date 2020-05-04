@@ -45,5 +45,13 @@ testem.log
 .DS_Store
 Thumbs.db
 
-#Readme
+#otros archivos de configuracion
 /README.md
+/.editorconfig
+/browserlist
+/karma.conf.js
+/e2e
+/tsconfig.app.json
+/tsconfig.json
+/tsconfig.spec.json
+tslint.json
